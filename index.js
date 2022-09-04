@@ -116,6 +116,7 @@ function mySize (collection) {
     }
     return originalCollection.length
   }
+  
 // OBJECT FUNCTIONS 
 function myKeys (obj) {
     const arr = []
